@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lexical-theory-250906",
+  "private_key_id": "e5e92ce3f03e440ba79328638464ae8311bc01d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4LAZVSFTg44JJ\nK53My36tO/XykmPhJCzO2qpge7ylJTVk5aeEbnsGqZQar1JC9ZYfOcejoUMjvWa4\nqdOQBB3cKJLuCIV7IWOFPCtLUukQE0ieUqKkJm2z2CNDQkaBcgweAfWd8+fhh2j8\nEmVXOJ8rndxOq2Jht/ydcXCs/jk4Z3UQ72csvtrRUVftZPp2BhetJ7yHiXny+HqO\nL4oB4siDmBUSp8H69j6ShFSN0BluTheAl3YzGhNJ2lkAg5qIgh46IcxXxnIHgSpK\nCf8vWyTok/fVdXKqrGz1qd24cmQR9ZsrICmqgi28P/X4sElM45eG51n60Q2fHyMl\nRx5UvEvNAgMBAAECggEAFcWilAdifVl35/V/iJvP5GPPvfbfVtjDcUq5VIGcOfut\nlbludcHnylBWwVbThzXoItXeS3I/cSStVYxCBeburr2fLQOV4AoA7VnBFnz9L1jQ\nP2MudfBTDK0y8fsOQbQ9SXja0+rnESrEVvRHxalca7gUOLqa/UlWVDh6ZQECu6+P\ngJoJTDPFM5PaXXeHyYylHXnAsiJvhwFvk/pDBRM8j9X9MdaeNAtpw53vno17QhG/\nXhxU7bmVbBerh4/XRmbhp/sGpbRbx9rm6HqmtCItGRlbMp2Xh+JxVqreJ+pUiEOl\nbBZl3aqnOOUssjjltMNvMCZYK3pqxTBCwaHr+7EWUwKBgQD4me3GwNvPQWkkEQIM\nEPkh6tP4SUjWE8MpKf30/HIng59hZZCWcvHpj6VnBvIWRXr9/u0V4/7LAo0w1Mpc\nbrlZivcars5AoVytEf25iBzfpigPH5GMNVJT63rhWDAM84ErdZ2earlCiOzMWTr5\nudpkElRSchhDgHqUK3WDn/MCiwKBgQC9pzb2E8rPtb1IH0TN4LuFMcTRN1vUP6lp\nVXY6lpKPOGxzP4bBLWSTbaRzWdwE/d5ejer5S7xcmBaZWgVg/GuiifiQS6wx2sLw\nEEMmfAKz+ih93f6o/9Xvb2Md6/cNwrSMy6vQ6wM6BdQCqy914d8nzhHrkbCrVjQV\nDQ90827uBwKBgBiq9XweUPFc1Tj98w0NdhsWeRgO9YpAhcIE560yi4U+O0dn05QK\nLdT2KvxxJP5uwIiJji7446RzSV1KEBZh6kRnVKOyKscg+9g0i8+oIO1USG9Pu5qF\nA/lNyXCo1oPCedO9JPm+L0nZ2l1gkUiMV45Mf097AMtZ6U/gjBWWfn+HAoGAYPO9\nnhjKIlsXE2qgwtqzIkkqA4ZYVG3jDi0ZTqQw8jR3BIeiPNkWxGNVoX57grXBWvcT\n+zOjbHZ3fxfNDiKcZ7A+uI1mzum1pAG8Qk09GIK29nlpOT3oQQnhUqeRWaCCqkNo\nZ1ntAVl/Y4ndrla0vOWUtad5+G0OHQDbOP9FYzsCgYAT1j8CdvMeGAZUvW9jkrd3\nqxEGY6oxse2LiMSFAHYNPH0dVipg2OElTUhkOFATPH2wz/wVCppfmK1MkpH+NoH4\nh9Wi3gDJKyTNeF0qr8ob55NjSgCwAzEFiKndLjgn//CztDTFYZk6HnS1PmHajISx\n9W5hEcE1dHZKz0ip2y5W6Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@lexical-theory-250906.iam.gserviceaccount.com",
+  "client_id": "104892488567340855605",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40lexical-theory-250906.iam.gserviceaccount.com"
+}
