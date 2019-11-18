@@ -1,5 +1,5 @@
 provider "google" {
-credentials = "${file("terraform.json")}"
-project     = "lexical-theory-250906"
+
+project     = "learned-vault-251805"
   region      = "us-central1"
 }
