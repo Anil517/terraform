@@ -31,6 +31,7 @@ resource "google_compute_instance" "finalvm" {
      #   ip_cidr_range  = var.ip_cidr_range
     #}
 
+    
   }
 }
 
